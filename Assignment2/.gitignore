@@ -1,0 +1,6 @@
+*.zip
+/.idea
+/ear_data
+/yolov5
+/ben
+*.pickle
